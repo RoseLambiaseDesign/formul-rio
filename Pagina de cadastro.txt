@@ -1,0 +1,13 @@
+<html><head><title> Página de Cadastro</title> <head>
+<body>
+<p align=Center"> <big> </big>
+<Strong> Cadastramentos - Etapa 1 de 3 </strong> <big> </big>
+<form method="POST" action="etapa2.html">
+<div align="center"> <p> Nome: <input type= "text" name = "nome" size="30"> </p> </div>
+<div align="center"> <p> e-mail: <input type="text" name= "e-mail" size = "30"> </p> </div>
+<div align="center"> <p> Data de Nascimento: <input type="text" name ="dna" size="10" </p></div>
+<div align="center"> <p> Sexo: <input type= "radio" value="masculino" checked name="sexo"> Masculino &nbsp;&nbsp;
+<input type="radio" name="sexo" value="feminino"> Feminino</p></div>
+<div align="center"> <p> Profissão: <input type="text" name="profissão" size="20"> </p></div>
+<div align="center"> <p> <input type="submit" value="Prosseguir &gt; &gt;"name="prosseguir"> </p> </div>
+</form> </body> </html>
