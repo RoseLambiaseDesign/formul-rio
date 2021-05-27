@@ -1,0 +1,36 @@
+<html> <head> <title> Página Dois do Cadastro</title> </head>
+<body>
+<p align="center"> <big> <big>
+<strong> Cadastramentos - Etapa 2 de 3 </strong> </big> <big> </p>
+
+<form method+"POST" action="etapa3.html">
+
+<input type="hidden" name="nome" value="?php echo $nome; ?>">
+
+<input type="hidden" name="e-mail" value="?php echo $email; ?>">
+
+<input type="hidden" name="nome" value="?php echo $dna; ?>">
+
+<input type="hidden" name="sexo" value="?php echo $sexo; />"> 
+
+<input type="hidden" name="profissão" value="?php echo $nome;?>">
+
+<input type="hidden" name="nome" value="php echo $nome: ?>">
+
+<div align="center"> <p> Telefone: <input type="text" name= "telefone" size="20"> </p> </div>
+
+<div align="center"> <p> Endereço: <input type="text" name= "endereço" size="20"> </p> </div>
+
+<div align="center"> <p> Cidade:   <input type="text" name= "cidade" size="15"> </p> </div>
+
+<div align="center"> <p> Estado Sigla:   <input type="text" name= "Estado" size="2"> </p> </div> 
+
+<div align="center"> <p> CEP:      <input type="text" name= "CEP" size="8"> </p> </div>
+
+<div align="center"> <p>
+<input type="submit" value="Prosseguir &gt; &gt;" nmae="prosseguir".</P> </div> </form> </body> </html>
+
+
+
+
+
