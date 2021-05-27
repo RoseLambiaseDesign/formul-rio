@@ -1,0 +1,54 @@
+<html>
+head>
+<title> Lista de Rotinas</title>
+</head>
+<body>
+<h1>
+<marquee height="100" width="800">Rose Lambiase Design</marquee>
+<h1>
+<hr>
+<h1> <b>Execução da Lista Ordenanda </b> </h1>
+<ol>
+<li>Segunda-Feira
+<ol>
+<li>Matéria:
+<li>Exercícios:
+<li>Trabalhos:
+</ol>
+<li>STerça-Feira
+<ol>
+<li>Matéria:
+<li>Exercícios:
+<li>Trabalhos:
+</ol>
+<li>Quarta-Feira
+<ol>
+<li>Matéria:
+<li>Exercícios:
+<li>Trabalhos:
+</ol>
+<li>Quinta-Feira
+<ol>
+<li>Matéria:
+<li>Exercícios:
+<li>Trabalhos:
+</ol>
+<li>Sexta-Feira
+<ol>
+<li>Matéria:
+<li>Exercícios:
+<li>Trabalhos:
+</ol>
+<table borde>
+<tr>
+<td> Competências </td>
+<td> </td>
+<td> Empresa de Design Rose Lambiase</td></tr>
+
+<tr>
+<td> a href="https://br.linkedin.com/public-profile/in/rosangela-lambiase-53717624"> <i> Perfil Linkedin</a> </td>
+<td></td>
+<td><a href="https://www.behance.net/rosangelambis"> Portfólio UX behance
+<td><a href="https://editor.p5js.org/RoseLambiaseDesign/sketches"> Portfólio FrontEnd
+<td> a href="https://rose-lambiase-design.negocio.site/"> Sacolas e Embalagens Personalizadas </td>
+<td><a href="https://github.com/RoseLambiaseDesign"> github
